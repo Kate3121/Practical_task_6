@@ -9,7 +9,7 @@
 	<Grid Margin="10">
 		<!-- Ім’я, Відключення автоматичної генерації стовпців, шрифт, фон, контур, розмір шрифту, -->
 		<DataGrid Name="dgSimple" AutoGenerateColumns="false" FontFamily="OCR-A BT" Background="#FF80CC9D"
-			BorderBrush="#FF537D63" FontSize="16">
+			BorderBrush="#FF537D63" FontSize="16" RowDetailsVisibilityMode="Visible">
 
 			<!-- Визначення користувацьких стовпців -->
 			<DataGrid.Columns>
@@ -22,7 +22,7 @@
 
 			<!-- Шаблон для відображення додаткової інформації при розгортанні рядка -->
 			<DataGrid.RowDetailsTemplate>
-				<DataTemplate>
+				<DataTemplate >
 					<!-- Відображення тексту з властивості Details -->
 					<TextBlock Text="{Binding Details}" Margin="10" />
 				</DataTemplate>

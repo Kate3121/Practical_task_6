@@ -1,3 +1,3 @@
-1,William Afton,1971-07-23
-2,Henry Emily,1974-01-17
-3,Charlotte Emily,1991-09-02
+1,William Afton,1971-07-23,https://static.wikia.nocookie.net/five-nights-at-freddys-rus/images/8/89/William_Afton_Infobox_Minigames.png/revision/latest?cb=20241122204104&path-prefix=ru
+2,Henry Emily,1974-01-17,https://static.wikia.nocookie.net/five-nights-at-freddys-rus/images/3/37/FNaF_ItP_Photo_of_William_and_Henry_Scratched.png/revision/latest/scale-to-width-down/1000?cb=20240810004048&path-prefix=ru
+3,Charlotte Emily,1991-09-02,https://static.wikia.nocookie.net/five-nights-at-freddys-rus/images/9/9d/FFPS_-_Charlie_Emily_Frame.png/revision/latest?cb=20200617092649&path-prefix=ru
